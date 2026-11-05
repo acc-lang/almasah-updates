@@ -1,0 +1,8 @@
+{
+    "version":  "0.5.1",
+    "version_code":  12,
+    "notes":  "توقيع نهائي للتطبيق. هذا التحديث وحده يحتاج حذف التطبيق القديم وتثبيت الملف الجديد يدوياً؛ ارفع السجلات المحفوظة أولاً.",
+    "apk_arm64":  "https://raw.githubusercontent.com/acc-lang/almasah-updates/main/almasah-0.5.1-arm64.apk",
+    "apk_universal":  "https://raw.githubusercontent.com/acc-lang/almasah-updates/main/almasah-0.5.1-universal.apk",
+    "published_at":  "2026-11-05T11:44:15Z"
+}
