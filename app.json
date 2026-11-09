@@ -1,0 +1,8 @@
+{
+    "version":  "0.8.1",
+    "version_code":  17,
+    "notes":  "العرض الفني يتجهز تلقائياً بعد اعتماد عرض السعر، مع ملف واحد يجمع العرض الفني والمالي، ومنتجات الضيافة وأسعار أودو السابقة كاقتراحات",
+    "apk_arm64":  "https://raw.githubusercontent.com/acc-lang/almasah-updates/main/almasah-0.8.1-arm64.apk",
+    "apk_universal":  "https://raw.githubusercontent.com/acc-lang/almasah-updates/main/almasah-0.8.1-universal.apk",
+    "published_at":  "2026-11-09T15:14:05Z"
+}
